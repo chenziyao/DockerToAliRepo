@@ -1,9 +1,2 @@
-elasticsearch
-elastic/elasticsearch
-kibana
-elastic/kibana
-apacherocketmq/rocketmq-dashboard
-apache/rocketmq
-openjdk
-amd64/openjdk
-tomcat
+elasticsearch:7.17.25
+elasticsearch:8.15.3
