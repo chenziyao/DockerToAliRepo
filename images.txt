@@ -2,7 +2,6 @@ elasticsearch
 elastic/elasticsearch
 kibana
 elastic/kibana
-rabbitmq
 apacherocketmq/rocketmq-dashboard
 apache/rocketmq
 openjdk
