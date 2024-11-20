@@ -1,1 +1,2 @@
-apache/kafka:latest
+seataio/seata-server:1.5.2
+seataio/seata-server:1.4.2
