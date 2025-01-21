@@ -1,1 +1,4 @@
-registry
+elasticsearch:7.14.2
+kibana:7.14.2
+skywalking-oap-server:9.1.0
+skywalking-ui:9.1.0
