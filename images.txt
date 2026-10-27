@@ -1,1 +1,1 @@
-onlyoffice/documentserver:latest
+minio/minio:RELEASE.2024-12-18T13-15-44Z
