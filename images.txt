@@ -1,1 +1,1 @@
-flink:1.18
+clickhouse/clickhouse-server:24.3
